@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 
-	logapi "github.com/rbock44/okfw-logapi-go/log"
+	logapi "github.com/rbock44/okfw-logapi-go/logapi"
 	"github.com/rs/zerolog"
 )
 
