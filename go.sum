@@ -1,0 +1,4 @@
+github.com/rbock44/okfw-logapi-go v0.0.0-20190326134611-1d6c4eb0d4e0 h1:pTYl2iahZ+u8Otqe0Ar97FXWo9MQyS2PBM+Qx7fAd+c=
+github.com/rbock44/okfw-logapi-go v0.0.0-20190326134611-1d6c4eb0d4e0/go.mod h1:UOS+sBb6BwI+hZwveulAGqPbsuRE+HQ2syXjbjrplH4=
+github.com/rs/zerolog v1.13.0 h1:hSNcYHyxDWycfePW7pUI8swuFkcSMPKh3E63Pokg1Hk=
+github.com/rs/zerolog v1.13.0/go.mod h1:YbFCdg8HfsridGWAh22vktObvhZbQsZXe4/zB0OKkWU=
