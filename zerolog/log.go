@@ -28,7 +28,7 @@ func NewLogger() logapi.Logger {
 		l.DebugLevel = true
 	}
 
-	l.Logger = zerolog.New(os.Stdout)
+	l.Logger = zerolog.New(os.Stdout).With().Timestamp().Logger()
 	return l
 }
 
